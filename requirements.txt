@@ -27,3 +27,5 @@ python-dotenv
 groq
 langdetect
 bcrypt
+
+
